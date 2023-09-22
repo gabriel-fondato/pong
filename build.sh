@@ -1,1 +1,1 @@
-g++ src/*cpp src/engine/*cpp src/game/*cpp -o game -lSDL2 -lGLEW
+g++ src/*cpp -o game -lSDL2 -lSDL2_ttf
